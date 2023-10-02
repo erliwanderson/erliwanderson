@@ -18,3 +18,7 @@ Olá, meu nome é Wanderson Erli e sou apaixonado por tecnologia. Atualmente, mo
 ![Vite](https://img.shields.io/badge/-Vite-232323?style=flat&labelColor=646CFF&logo=vite&logoColor=ffe330)
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 
+![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+
+<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
