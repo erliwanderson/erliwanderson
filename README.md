@@ -5,7 +5,9 @@
 </a>
 
 ## Sobre mim
-Olá, meu nome é Wanderson Erli e sou apaixonado por tecnologia. Atualmente, moro em Nova Iguaçu-RJ e estou sempre em busca de aprender e aplicar novas tecnologias em meus projetos.
+Sou apaixonado por tecnologia e inovação.
+
+Gosto de abraçar novos desafios, trabalhar em equipe e aprender novas habilidades.
 
 ## Tecnologias que gosto de usar
 
