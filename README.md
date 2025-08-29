@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Wanderson Erli  
 
 💻 Estudante de **Sistemas de Informação (7º período)**.  
-👨‍💻 Atualmente sou **Estagiário em Desenvolvimento de Software na [@Cadmus Soluções em TI](https://www.cadmus.com.br/)**.  
+👨‍💻 **Estagiário em Desenvolvimento de Software na [@Cadmus Soluções em TI](https://www.cadmus.com.br/)**.  
 🚀 Reforçando meus conhecimentos com uma trilha de capacitação em:  
 **Scrum | Kanban | Lógica de Programação | JavaScript | Git & GitHub | Node.js | C# | .NET | ASP.NET**  
 
